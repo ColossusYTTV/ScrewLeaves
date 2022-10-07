@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32203.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrewLeaves", "ScrewLeaves.csproj", "{292796E7-E39E-452C-B4C3-5A7B3CDE3079}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{292796E7-E39E-452C-B4C3-5A7B3CDE3079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{292796E7-E39E-452C-B4C3-5A7B3CDE3079}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{292796E7-E39E-452C-B4C3-5A7B3CDE3079}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{292796E7-E39E-452C-B4C3-5A7B3CDE3079}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49975D00-5BA0-4E99-8314-9610956F46F4}
+	EndGlobalSection
+EndGlobal
